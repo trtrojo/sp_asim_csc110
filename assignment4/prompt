@@ -1,0 +1,9 @@
+Design a shopping cart class. You can store a list of iutems in the shopping cart. Each item has its own specifications (ie code, name, ...). Each shopping cart is for a person. The method addTocart of shopping cart accepts an item as argument and adds it to the cart and the method removeFromcart does it in reverse.
+
+ You may need other classes to use them as internal complex type of your shopping cart.
+
+ Create a class OnlineStore. This class has a method order summery, this method accepts the cart and information of the owner of the cart, syums up the prices, calculates the tax and shipping costs and produces an Order object, this object has a field totalPrice and a field owner of order.
+
+ Design a class CheckoutSystem. Each checkout system has a method checkout that accepts the order and a credit cart as arguments and checkouts the itmes. We dont care how internally this method works, the only task that it does right now is to product a confirmation number and return it. Show the order summery.
+
+ Note that there are internal classes that exist but I didn't mention them.

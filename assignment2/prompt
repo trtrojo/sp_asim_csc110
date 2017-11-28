@@ -1,0 +1,13 @@
+Create a class weather.
+
+Look at weather forcast of New York in three different times and create three different weather object. The name of each object should be monthDay_hour_minutesAM/PM
+
+ Example:
+
+ SEP17_10_30_AM
+ SEP17_11_00_PM
+ SEP18_12_45_AM
+
+ Initalize each object with the actual reading of the weather at that time.
+
+ Note: To see the weather forcast and find the attirbutes of your weather class you may look at weather.com.

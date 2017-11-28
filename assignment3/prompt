@@ -1,0 +1,18 @@
+Create a class person. Each person has a name, height and weight, BMI.
+
+ Create 10 object instance of person.
+ Use initalize these objects using the real values.
+
+ Create an array object of Person with size 10.
+
+ Insert all your 10 objects in the array.
+
+ Iterate over your array using a for loop. Use the height and weight of each person and calculate his/her BMI and store the value of BMI inside that person.
+
+ After the first for loop is finished, create the second for loop. Inside that loop check each person and if his BMI is normal, print a message that "Weight of X is normal" (Replace X with the name of the person)
+
+ Inside the other loop check the BMI of each person and for those who are obese print a message "X is obese"
+
+ You may reuse your old code for BMI.
+
+ For thinkers: Check to see if you can use methods.
